@@ -1,0 +1,13 @@
+# 데이터셋·체크포인트는 HF Hub에 올림
+*.pt
+*.pth
+*.safetensors
+*.parquet
+*.mp4
+outputs/
+datasets/
+checkpoints/
+wandb/
+__pycache__/
+.venv/
+~$*
